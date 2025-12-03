@@ -1,0 +1,5 @@
+{
+  "name": "Shendun Cloak System",
+  "description": "A comprehensive traffic filtering and short-link management system (Cloak) featuring rule engines, detailed visitor analytics, and IP management.",
+  "requestFramePermissions": []
+}
